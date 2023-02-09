@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello! 👋
+
+Welcome to my github profile! 
+
+
+
+
+
+
 
 <!--
 **aypjames/aypjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
