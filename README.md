@@ -3,6 +3,12 @@
 Welcome to my github profile! 
 
 
+- 🌱 I’m currently learning: Java - Posting API projects soon!
+- 🔭 I’m currently working on (Personal): Developing a community planning hub - Data Management, Data Analytics and Dashboarding
+- 🚀 I’m currently working on (Paid): Developing a pricing calculator for small Solar Energy Company - Login Authentication, User Authorisation, Dynamic Forms, Project Planning and Project Management. 
+- 
+----
+Last Updated: May 2023
 
 
 
