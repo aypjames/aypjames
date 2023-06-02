@@ -5,7 +5,7 @@ Welcome to my github profile!
 
 - 🌱 I’m currently learning: Java - Posting API projects soon!
 ----
-Last Updated: May 2023
+Last Updated: June 2023
 
 
 
